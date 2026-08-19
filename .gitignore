@@ -1,0 +1,15 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+__pycache__/
+*.pyc
+
+HDBF_type1_error_results_*.csv
+HDBF_power_results_*.csv
+WCCT_Advantage_Report.txt
+
+*.log
+*.tmp
+*.bak
